@@ -4,8 +4,8 @@ I'm Aditya Raj, an Engineering Student and a keen learner. I am currently a begi
 - 👀 I’m interested in Web-Development and Machine Learning
 - 🌱 I’m currently learning Web-Development and DSA
 - 📫 Reach me out!
-https://www.linkedin.com/in/iadiraj/
-https://twitter.com/iadiraj
+www.linkedin.com/in/iadiraj/
+twitter.com/iadiraj
 
 <!---
 iadiraj/iadiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
