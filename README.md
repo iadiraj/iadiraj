@@ -13,7 +13,7 @@
 </p>
 
 I'm Aditya Raj, an Engineering Student and a keen learner. I am currently a beginner and exploring new things in the field of technology.
-- 👀 I’m interested in Web-Development and Machine Learning
+- 👀 I’m interested in Web-Development and Dev-Ops.
 - 🌱 I’m currently learning Web-Development and DSA
 - 📫 Reach me out!
 - [![Twitter Badge](https://img.shields.io/badge/-@iadiraj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/iadiraj)  [![Linkedin Badge](https://img.shields.io/badge/-iadiraj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iadiraj/)  [![Mail Badge](https://img.shields.io/badge/-developer.rajaditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:developer.rajaditya@gmail.com)
