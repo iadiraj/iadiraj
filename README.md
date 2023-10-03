@@ -7,7 +7,7 @@
 <h3 align="center">CSE UNDERGRAD | ANDROID-DEVELOPER</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-18-blue" />
-  <img src="https://img.shields.io/badge/Focus-Android%20Develpoment And Flutter%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Android%20Develpoment-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
