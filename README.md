@@ -4,7 +4,7 @@
 <hr>
 
 <h1 align="center">👋 Hi, I’m ADITYA</h1>
-<h3 align="center">CSE STUDENT | FRONT-END-DEVELOPER</h3>
+<h3 align="center">CSE UNDERGRAD | ANDROID-DEVELOPER</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-18-blue" />
   <img src="https://img.shields.io/badge/Focus-Android%20Develpoment And Flutter%20Development-brightgreen" />
@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
 
-I'm Aditya Raj, an Engineering Student and a keen learner. I am currently a beginner and exploring new things in the field of technology.
-- 👀 I’m interested in Cloud, Blockchain and Dev-Ops.
-- 🌱 I’m currently learning Mobile-Development,  and DSA
+I'm Aditya Raj, an Engineering undergraduate student and a keen learner. I am currently a beginner and exploring new things in the field of technology.
+- 👀 I’m interested in Cloud and Open-Source.
+- 🌱 I’m currently learning Android And Ios Development,  and DSA
 - 📫 Reach me out!
 - [![Twitter Badge](https://img.shields.io/badge/-@iadiraj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/iadiraj)  [![Linkedin Badge](https://img.shields.io/badge/-iadiraj-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iadiraj/)  [![Mail Badge](https://img.shields.io/badge/-developer.rajaditya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:developer.rajaditya@gmail.com)
 
