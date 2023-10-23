@@ -5,12 +5,12 @@
 
 <h1 align="center">👋 Hi, I’m ADITYA</h1>
 <h3 align="center">CSE UNDERGRAD | ANDROID-DEVELOPER</h3>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Focus-Android%20Development-brightgreen?style=for-the-badge&logo=android">
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=map">
 <img src="https://img.shields.io/badge/Languages-English-brightgreen?style=for-the-badge&logo=language">
-
 </p>
 
 # 💫 About Me:
@@ -18,10 +18,21 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iadiraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iadiraj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iadiraj) 
+[![Instagram](https://img.shields.io/badge/Instagram-iadiraj-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iadiraj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iadiraj-%230072b6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iadiraj/)
+[![Twitter](https://img.shields.io/badge/Twitter-iadiraj-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iadiraj)
 
 # 💻 Tech Stack:
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![iOS Badge](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift Badge](https://img.shields.io/badge/swift-%23FFAC45.svg?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white) 
+![iOS Badge](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Swift Badge](https://img.shields.io/badge/swift-%23FFAC45.svg?style=for-the-badge&logo=swift&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iadiraj&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iadiraj&theme=react&hide_border=false)<br/>
