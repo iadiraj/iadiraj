@@ -6,16 +6,9 @@
 <h1 align="center">👋 Hi, I’m ADITYA</h1>
 <h3 align="center">CSE UNDERGRAD | ANDROID-DEVELOPER</h3>
 <p align="center">
-<!-- Age -->
 <img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge">
-
-<!-- Focus with Android icon -->
 <img src="https://img.shields.io/badge/Focus-Android%20Development-brightgreen?style=for-the-badge&logo=android">
-
-<!-- Lives with India icon -->
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=map">
-
-<!-- Languages with English icon -->
 <img src="https://img.shields.io/badge/Languages-English-brightgreen?style=for-the-badge&logo=language">
 
 </p>
