@@ -6,10 +6,14 @@
 <h1 align="center">👋 Hi, I’m ADITYA</h1>
 <h3 align="center">CSE UNDERGRAD | ANDROID-DEVELOPER</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Android%20Develpoment-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
+<!-- <img src="https://img.shields.io/badge/Age-20-blue" /> -->
+<!-- <img src="https://img.shields.io/badge/Focus-Android%20Develpoment-brightgreen" /> -->
+<!-- <img src="https://img.shields.io/badge/Lives-India-success" /> -->
+<!-- <img src="https://img.shields.io/badge/Languages-English-brightgreen" /> -->
+![Age](https://img.shields.io/badge/Age-21-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Android%20Development-brightgreen?style=for-the-badge&logo=android)
+![Location](https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=map)
+![Languages](https://img.shields.io/badge/Languages-English-brightgreen?style=for-the-badge&logo=language)
 </p>
 
 # 💫 About Me:
