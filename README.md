@@ -18,9 +18,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iadiraj-%230072b6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iadiraj/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iadiraj/)
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iadiraj/)
-[![Instagram](https://img.shields.io/badge/Instagram-iadiraj-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iadiraj/)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iadiraj/)
 
 
 # 💻 Tech Stack:
