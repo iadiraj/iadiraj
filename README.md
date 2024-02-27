@@ -24,7 +24,6 @@
 
 
 # 💻 Tech Stack:
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![iOS Badge](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
