@@ -9,12 +9,13 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/iOS%20Development-%2300aaff.svg?style=for-the-badge&logo=apple&logoColor=white)">
+  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)">
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=map">
 <img src="https://img.shields.io/badge/Languages-English-brightgreen?style=for-the-badge&logo=language">
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on exciting Android app projects, pushing the boundaries of mobile technology.<br>👯 I’m looking to collaborate on exciting mobile app projects.<br>🤝 I’m looking for help with mastering advanced mobile development techniques and architecting robust, scalable apps.<br>🌱 I’m currently learning Android and iOS app development with the latest trends in mobile app design and development, striving to stay at the forefront of this ever-evolving field.<br>💬 Ask me about anything related to Android app development – I'm always eager to share knowledge and insights.<br>⚡ Fun fact: I love the cosmos. 🔭🪐
+🔭 I’m currently working on exciting iOS app Projects and React Native Projects, pushing the boundaries of mobile technology.<br>👯 I’m looking to collaborate on exciting mobile app projects.<br>🤝 I’m looking for help with mastering advanced mobile development techniques and architecting robust, scalable apps.<br>🌱 I’m currently learning Android and iOS app development with the latest trends in mobile app design and development, striving to stay at the forefront of this ever-evolving field.<br>💬 Ask me about anything related to iOS and Cross-Platform app development – I'm always eager to share knowledge and insights.<br>⚡ Fun fact: I love the cosmos. 🔭🪐
 
 
 ## 🌐 Socials:
