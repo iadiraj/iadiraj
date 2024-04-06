@@ -27,6 +27,8 @@
 ![iOS Badge](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React Native Badge](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Expo Badge](https://img.shields.io/badge/expo-%238B00.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/swift-%23FFAC45.svg?style=for-the-badge&logo=swift&logoColor=white) 
 ![SwiftUI Badge](https://img.shields.io/badge/swiftui-%237AC8FA.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
