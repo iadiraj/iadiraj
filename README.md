@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/iOS%20Development-%2300aaff.svg?style=for-the-badge&logo=apple&logoColor=white)">
-  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)">
+<img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=map">
 <img src="https://img.shields.io/badge/Languages-English-brightgreen?style=for-the-badge&logo=language">
 </p>
