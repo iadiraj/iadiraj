@@ -4,7 +4,7 @@
 <hr>
 
 <h1 align="center">👋 Hi, I’m ADITYA</h1>
-<h3 align="center">CSE UNDERGRAD | ANDROID-DEVELOPER</h3>
+<h3 align="center">Software Developer👨‍💻 | Java, SpringBoot, Swift, SwiftUI | Building iOS Application | Seeking to leverage my experience in Software Development</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge">
@@ -15,7 +15,19 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on exciting iOS app Projects and React Native Projects, pushing the boundaries of mobile technology.<br>👯 I’m looking to collaborate on exciting mobile app projects.<br>🤝 I’m looking for help with mastering advanced mobile development techniques and architecting robust, scalable apps.<br>🌱 I’m currently learning Android and iOS app development with the latest trends in mobile app design and development, striving to stay at the forefront of this ever-evolving field.<br>💬 Ask me about anything related to iOS and Cross-Platform app development – I'm always eager to share knowledge and insights.<br>⚡ Fun fact: I love the cosmos. 🔭🪐
+Aspiring Software Developer with entry-level proficiency in iOS and Backend Development. Learning to build innovative software solutions using Swift & Java, ready to kickstart my career in tech. I'm excited to learn from industry experts, collaborate on projects, and contribute to cutting-edge developments.
+
+𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
+• Java
+• SpringBoot
+• Swift
+• SwiftUI
+• Git
+
+𝐖𝐡𝐚𝐭 𝐒𝐞𝐭𝐬 𝐌𝐞 𝐀𝐩𝐚𝐫𝐭:
+Thrilled about the opportunities and challenges around building software that allow me to use my proficiency with Java & Swift. My ability to adapt and learn tools efficiently allows me to stay ahead in a fast-paced industry, delivering solutions that impact the world.
+
+Driven to apply the knowledge gained during my academic journey. Do you relate to my story, or want to know more about my background? I'd love to connect with you on LinkedIn!📧 You can also reach me at developer.rajaditya@gmail.com
 
 
 ## 🌐 Socials:
@@ -26,10 +38,8 @@
 
 # 💻 Tech Stack:
 ![iOS Badge](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![ReactNative Badge](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Expo Badge](https://img.shields.io/badge/expo-%238B00.svg?style=for-the-badge&logo=expo&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/swift-%23FFAC45.svg?style=for-the-badge&logo=swift&logoColor=white) 
 ![SwiftUI Badge](https://img.shields.io/badge/swiftui-%237AC8FA.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
