@@ -18,16 +18,12 @@
 Aspiring Software Developer with entry-level proficiency in iOS and Backend Development. Learning to build innovative software solutions using Swift & Java, ready to kickstart my career in tech. I'm excited to learn from industry experts, collaborate on projects, and contribute to cutting-edge developments.
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
-• Java
-• SpringBoot
-• Swift
-• SwiftUI
-• Git
+Java, SpringBoot, Swift, SwiftUI, Git
 
 𝐖𝐡𝐚𝐭 𝐒𝐞𝐭𝐬 𝐌𝐞 𝐀𝐩𝐚𝐫𝐭:
 Thrilled about the opportunities and challenges around building software that allow me to use my proficiency with Java & Swift. My ability to adapt and learn tools efficiently allows me to stay ahead in a fast-paced industry, delivering solutions that impact the world.
 
-Driven to apply the knowledge gained during my academic journey. Do you relate to my story, or want to know more about my background? I'd love to connect with you on LinkedIn!📧 You can also reach me at developer.rajaditya@gmail.com
+Driven to apply the knowledge gained during my academic journey. Do you relate to my story, or want to know more about my background? I'd love to connect with you on LinkedIn @iadiraj!📧 You can also reach me at developer.rajaditya@gmail.com
 
 
 ## 🌐 Socials:
