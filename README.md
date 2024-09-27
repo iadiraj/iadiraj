@@ -7,9 +7,9 @@
 <h3 align="center">Software Developer👨‍💻 | Java, SpringBoot, Swift, SwiftUI | Building iOS Application | Seeking to leverage my experience in Software Development</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Age-22-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/iOS%20Development-%2300aaff.svg?style=for-the-badge&logo=apple&logoColor=white)">
-<img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/springboot%20native-%2361DAFB.svg?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=map">
 <img src="https://img.shields.io/badge/Languages-English-brightgreen?style=for-the-badge&logo=language">
 </p>
@@ -57,9 +57,6 @@ Driven to apply the knowledge gained during my academic journey. Do you relate t
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iadiraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iadiraj&icon=0&color=0)](https://visitcount.itsvg.in)
