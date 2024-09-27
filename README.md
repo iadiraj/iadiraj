@@ -32,16 +32,15 @@ Driven to apply the knowledge gained during my academic journey. Do you relate t
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iadiraj/)
-[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iadiraj/)
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iadiraj/)
+[![X](https://img.shields.io/badge/x-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iadiraj/)
 
 
 # 💻 Tech Stack:
-![iOS Badge](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) 
+![iOS](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Swift Badge](https://img.shields.io/badge/swift-%23FFAC45.svg?style=for-the-badge&logo=swift&logoColor=white) 
-![SwiftUI Badge](https://img.shields.io/badge/swiftui-%237AC8FA.svg?style=for-the-badge&logo=swift&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-%23ED8B00.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FFAC45.svg?style=for-the-badge&logo=swift&logoColor=white) 
+![SwiftUI](https://img.shields.io/badge/swiftui-%237AC8FA.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
