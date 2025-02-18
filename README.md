@@ -8,7 +8,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/iOS%20Development-%2300aaff.svg?style=for-the-badge&logo=apple&logoColor=white)">
+<img src="https://img.shields.io/badge/DevOps-%2303A9F4.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-%2361DAFB.svg?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&logo=map">
 <img src="https://img.shields.io/badge/Languages-English-brightgreen?style=for-the-badge&logo=language">
