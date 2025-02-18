@@ -4,7 +4,7 @@
 <hr>
 
 <h1 align="center">👋 Hi, I’m ADITYA</h1>
-<h3 align="center">Software Developer👨‍💻 | Java, SpringBoot, Swift, SwiftUI | Building iOS Application | Seeking to leverage my experience in Software Development</h3>
+<h3 align="center">Software Developer👨‍💻 | Java, SpringBoot, Docker, Gitlab, CI/CD, NGNIX | Seeking to leverage my experience in Software Development</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue?style=for-the-badge">
@@ -15,15 +15,21 @@
 </p>
 
 # 💫 About Me:
-Aspiring Software Developer with entry-level proficiency in iOS and Backend Development. Learning to build innovative software solutions using Swift & Java, ready to kickstart my career in tech. I'm excited to learn from industry experts, collaborate on projects, and contribute to cutting-edge developments.
+Aspiring Software Developer with entry-level proficiency in Springboot Development and DevOps. Learning to build innovative software solutions, and ready to kickstart my career in tech. I'm excited to learn from industry experts, collaborate on projects, and contribute to cutting-edge developments.
 
-𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
-Java, SpringBoot, Swift, SwiftUI, Git
+Technical Skills: 
+• Java
+• Spring Boot
+• GitLab
+• Docker
+• NGINX
+• CI/CD
+• Git
 
-𝐖𝐡𝐚𝐭 𝐒𝐞𝐭𝐬 𝐌𝐞 𝐀𝐩𝐚𝐫𝐭:
-Thrilled about the opportunities and challenges around building software that allow me to use my proficiency with Java & Swift. My ability to adapt and learn tools efficiently allows me to stay ahead in a fast-paced industry, delivering solutions that impact the world.
+What Sets Me Apart:
+Excited about the opportunities and challenges around building impactful software. My ability to adapt quickly and learn new tools enables me to stay ahead in a fast-paced industry, delivering solutions that make a difference.
 
-Driven to apply the knowledge gained during my academic journey. Do you relate to my story, or want to know more about my background? I'd love to connect with you on LinkedIn @iadiraj!📧 You can also reach me at developer.rajaditya@gmail.com
+Driven to apply the knowledge gained throughout my academic journey. Do you relate to my story, or want to know more about my background? Let’s connect on LinkedIn!📧 You can also reach me at developer.rajaditya@gmail.com
 
 
 ## 🌐 Socials:
@@ -32,13 +38,14 @@ Driven to apply the knowledge gained during my academic journey. Do you relate t
 
 
 # 💻 Tech Stack:
-![iOS](https://img.shields.io/badge/iOS-%230167E6.svg?style=for-the-badge&logo=apple&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-%23ED8B00.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23FFAC45.svg?style=for-the-badge&logo=swift&logoColor=white) 
-![SwiftUI](https://img.shields.io/badge/swiftui-%237AC8FA.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%230167E6.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%230A9B93.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iadiraj&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
